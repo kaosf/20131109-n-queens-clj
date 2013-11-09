@@ -1,5 +1,7 @@
 # 2013-11-09 N Queens Problem in Clojure
 
+http://kaosfield.net/slides/20131109-n-queens-clj
+
 This repository is created with [kaosf/reveal.js-2.5.0-customized version 2.5.0.0](https://github.com/kaosf/reveal.js-2.5.0-customized/releases/tag/2.5.0.0) by following commands.
 
 ```sh
